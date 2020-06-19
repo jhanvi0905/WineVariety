@@ -1,7 +1,7 @@
 # WineVariety
 A text classification model for predicting wine variety based on description using word embeddings and LSTM
 
-Dataset - [!Wine Reviews Dataset](https://www.kaggle.com/zynicide/wine-reviews)
+Dataset - [Wine Reviews Dataset](https://www.kaggle.com/zynicide/wine-reviews)
 
 Following are the tasks performed on the given dataset:
 
